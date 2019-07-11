@@ -3,6 +3,7 @@
 Berikut cara install project
 
 - composer install
+- buat database
 - php artisan migrate --seed
 - jalankan server php artisan serve
 
